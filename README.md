@@ -1,5 +1,7 @@
 # DALLE-3 Image Generator GUI with Dictation
 
+* Web Based Version in https://github.com/EA914/DALLE-Image-Generator-GUI/tree/main/index
+
 ### Files:
 * `dallecmd.py` --> command line tool that allows you to dictate a prompt and retrieve an image from that prompt
 * `dallegui.py` --> GUI interface that allows you to either type a prompt or dictate a prompt to generate an image
