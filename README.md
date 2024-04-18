@@ -9,6 +9,8 @@
 ### APIs Used:
 * [OpenAI Image Generation](https://platform.openai.com/docs/guides/images?context=node)
 * [OpenAI Speech-to-Text](https://platform.openai.com/docs/guides/speech-to-text)
+* [Picovoice Porcupine](https://picovoice.ai/docs/porcupine/)
+* [Picovoice Cobra](https://picovoice.ai/docs/cobra/)
 
 ## Screenshots / Demos
 
@@ -57,3 +59,4 @@ Console contains logs of the payload that is sent and the JSON response from the
 
 ## .env File
 * .env file should contain variable OPENAI_API_KEY which equals your OpenAI API key.
+* .env file should contain variable PICOVOICE_API_KEY which equals your Picovoice API Key
